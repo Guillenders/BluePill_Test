@@ -1,0 +1,8 @@
+main.c:127:6:SystemClock_Config	4
+main.c:170:6:APP_FIFO_AddElement	1
+main.c:179:16:SEMAPHORE_Take	4
+main.c:192:16:SEMAPHORE_Give	4
+main.c:206:16:APP_POSSENSOR_GetFrequency	9
+main.c:76:5:main	2
+main.c:247:6:HAL_ADCEx_InjectedConvCpltCallback	4
+main.c:275:6:Error_Handler	1
